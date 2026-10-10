@@ -5,6 +5,10 @@ Travel insurance companies may waste marketing resources targeting customers who
 
 
 This is a Streamlit user interface for the Random Forest `GridSearchCV` model in `TRAVEL_INS(1).IPYNB`.
+## 💡 Business Solution
+
+This project provides a machine learning solution that predicts whether a customer is likely to purchase travel insurance based on demographic, financial, and travel-related information. Using a trained Random Forest classifier integrated with a Streamlit web application, users can enter customer details and obtain predictions through an interactive interface. This solution supports data-driven customer analysis and helps insurance providers better understand purchasing patterns.
+
 
 ## Important: export your actual trained model first
 
