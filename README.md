@@ -1,4 +1,8 @@
 # Travel Insurance Prediction — Streamlit app
+### Business Problem
+
+Travel insurance companies may waste marketing resources targeting customers who are unlikely to purchase insurance. This project uses a Random Forest classification model to predict customer purchase behaviour based on demographic, financial, and travel-related attributes, helping businesses improve marketing targeting and customer acquisition efficiency.
+
 
 This is a Streamlit user interface for the Random Forest `GridSearchCV` model in `TRAVEL_INS(1).IPYNB`.
 
