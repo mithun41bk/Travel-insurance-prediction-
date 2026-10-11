@@ -8,6 +8,10 @@ This is a Streamlit user interface for the Random Forest `GridSearchCV` model in
 ## 💡 Business Solution
 
 This project provides a machine learning solution that predicts whether a customer is likely to purchase travel insurance based on demographic, financial, and travel-related information. Using a trained Random Forest classifier integrated with a Streamlit web application, users can enter customer details and obtain predictions through an interactive interface. This solution supports data-driven customer analysis and helps insurance providers better understand purchasing patterns.
+v<img width="907" height="817" alt="Screenshot 2026-10-10 201852" src="https://github.com/user-attachments/assets/0ac17916-2e24-461c-9962-411acbdb7585" />
+<img width="907" height="846" alt="Screenshot 2026-10-10 201931" src="https://github.com/user-attachments/assets/bcdb6f91-9be9-47d3-928b-9f529424c713" />
+
+
 
 
 ## Important: export your actual trained model first
